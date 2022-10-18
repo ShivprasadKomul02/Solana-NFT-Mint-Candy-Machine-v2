@@ -1,0 +1,33 @@
+{
+  "name": "Number #0022",
+  "symbol": "SHIV",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+  "image": "21.png",
+  "attributes": [
+    {
+      "trait_type": "Layer-1",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-2",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-3",
+      "value": "1122"
+    },
+    {
+      "trait_type": "Layer-4",
+      "value": "0"
+    }
+   
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "21.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

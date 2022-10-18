@@ -1,0 +1,20 @@
+{
+  "name": "Number #0010",
+  "symbol": "SHIV",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+  "image": "9.png",
+  "attributes": [
+    { "trait_type": "background", "value": "red" },
+    { "trait_type": "eyes", "value": "star-eyes" },
+    { "trait_type": "mouth", "value": "triangle-mouth" },
+    { "trait_type": "face", "value": "sun-face" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
